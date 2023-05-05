@@ -16,6 +16,10 @@ A simple multifunctional server nuker
 Just input the token, channel names, message etc. into the file.
 Then run the python file, you may need to install some dependencies, so just follow the instructions the error message gives you.
 
+## How to use it:
+
+Run $help in any channel of the server you want to nuke - the bot has to be on it to state the obvious - then a help menu will open up giving you all the available commands.
+
 # Disclaimer
 
 This is tool was made for educational purposes and proof of concepts. I'm not accountable for any unlawful, unprecedented action and any violation of ToS administered by a third party.
